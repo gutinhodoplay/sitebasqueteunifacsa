@@ -1,0 +1,44 @@
+.titulo1:link{
+        font-size:xx-large;
+        color:white;
+        text-decoration: none;
+        position: absolute;
+        top: 10%;
+        left: 50%;
+        transform: translate(-50%,-50%);}
+.titulo1:hover{
+    color:blue;
+    background-color: white;
+    
+}
+.fundo{
+background-color:rgb(5, 5, 58);
+}
+.escudo_branco{
+    position: absolute;
+    top: 4%;
+    left: 5%;
+    width: 150px;
+
+}
+.banner{
+    position:absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 600px
+}
+.linkelenco{
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    top:20% ;
+    left:95%;
+    transform: translate(-50%,-50%);
+    font-size: x-large;
+}
+.linkelenco:hover{
+    background-color: white;
+    color: blue;
+
+}
